@@ -6,3 +6,6 @@ Designed a mock annual business report consolidating KPIs for strategic decision
 
 Skills Used
 Excel · Data Cleaning · Pivot Tables · Business Analytics · Data Visualization
+
+<img width="1846" height="722" alt="Screenshot 2025-10-22 120434" src="https://github.com/user-attachments/assets/73786a8a-dbb7-4595-9567-42d98966f26a" />
+
